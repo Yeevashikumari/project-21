@@ -1,0 +1,13 @@
+*{
+    background-color:blueviolet;
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size:30px;
+    color:aquamarine;
+    font-style: italic;
+    text-decoration: overline;
+}
+li{
+    color:pink;
+}

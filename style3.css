@@ -1,0 +1,47 @@
+/*.image-container img{
+    
+    background-color: rgb(214, 37, 37);
+    transition:transform :2s steps(3);
+    background-color:2s steps(3);
+    width:400px;
+    height:400px;
+    <div class="image-container">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.t4sSNbdQ27UCqT03Uir_rQHaFi&pid=Api&P=0&h=180"> </img> 
+    </div> 
+}
+.image-container img:hover{
+    background-color:aquamarine;
+    transform:scale(1.1);
+   /* width:400px;
+    height:400px;
+    
+}*/
+h1{
+    text-align: center;
+    color: rgb(255, 47, 47);
+    text-decoration:underline;
+    text-transform: capitalize;
+}
+div{
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    text-align: center;
+    margin-left:500px;
+    margin-top: 200px;
+}
+div:hover{
+    background-color: blueviolet;
+    font-size: 20px;
+    transition: ease-in;
+    transition-duration:5s;
+    transform:scale(5);
+    justify-content: center;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    border-inline-style: 10px;
+    /*transform: rotate(45deg);
+    transform: skew(45deg);
+    transform:translate(100px);
+}
